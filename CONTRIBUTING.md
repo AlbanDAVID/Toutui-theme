@@ -20,7 +20,7 @@ Before creating a pull request to submit your theme, please read these guideline
 
     Example:  
     ```
-    ### [Name_of_your_theme by username (optional)](https://github.com/AlbanDAVID/Toutui-theme/blob/main/themes/name_of_your_theme.toml
+    ### [Name_of_your_theme by username (optional)](https://github.com/AlbanDAVID/Toutui-theme/blob/main/theme/name_of_your_theme.toml
     ```
     6.2 Add a screenshot:
    
