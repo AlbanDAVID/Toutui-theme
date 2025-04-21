@@ -1,3 +1,13 @@
+# 🦜 Welcome to the [Toutui](https://github.com/AlbanDAVID/Toutui) Theme Repository
+
+Explore our collection of themes to customize your interface. To try a theme:
+
+  - Click on the name of the theme you're interested in.
+
+  - Copy and paste the configuration into your own config file.
+
+💡 Have a theme you'd like to share? Feel free to contribute! Please review the contribution guidelines before submitting.
+
 # 🎨 Showcase
 
 ### [Sandy (default theme)](https://github.com/AlbanDAVID/Toutui-theme/blob/main/theme/sandy.toml)
