@@ -1,4 +1,4 @@
-# 🦜 Welcome to the [Toutui](https://github.com/AlbanDAVID/Toutui) Theme Repository
+# 🦜 Welcome to the [Toutui](https://github.com/AlbanDAVID/Toutui) theme repository
 
 Explore the collection of themes to customize your interface. To try a theme:
 
