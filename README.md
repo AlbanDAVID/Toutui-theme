@@ -1,6 +1,6 @@
 # 🦜 Welcome to the [Toutui](https://github.com/AlbanDAVID/Toutui) Theme Repository
 
-Explore our collection of themes to customize your interface. To try a theme:
+Explore the collection of themes to customize your interface. To try a theme:
 
   - Click on the name of the theme you're interested in.
 
