@@ -13,7 +13,7 @@ Before creating a pull request to submit your theme, please read these guideline
 2) If your theme is inspired by the Dracula color palette, give it a name who is not still referenced in the readme (e.g. Dracula2, Dracula3, etc.).
 3) In the `themes/` folder, add your theme config file as `name_of_your_theme.toml`.
 4) You must keep the default comments (e.g. do not remove lines like `# General background color of the app:`).
-5) Obviously, you must keep the same variable names as the original confil file. You just have to modify RGB colors.
+5) Obviously, you must keep the same variable names as the original config file. You just have to modify RGB colors.
 6) In the README:
 
     6.1 Add your theme’s name, and optionaly your username, and a link to the file.
@@ -36,7 +36,7 @@ Before creating a pull request to submit your theme, please read these guideline
     
 9) When can a theme will not be directly accepted?
    - No respect of above guidlines.
-   - If the color association is not visually inconsistent.  
+   - If the color association is visually inconsistent.  
    - If the name is not appropriate or already used.
   
 That's all 🙂
