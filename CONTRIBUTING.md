@@ -22,7 +22,8 @@ Before creating a pull request to submit your theme, please read these guideline
     ```
     ### [Name_of_your_theme by username (optional)](https://github.com/AlbanDAVID/Toutui-theme/blob/main/theme/name_of_your_theme.toml
     ```
-    6.2 Add a screenshot (required):
+    6.2 Add a screenshot (required):    
+       ***Simply paste your screenshot in the README file et a link will be automatically created***
    
       a) You can take a screenshot from `Continue listening` or `Library` view.
 
