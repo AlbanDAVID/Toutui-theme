@@ -1,0 +1,23 @@
+[colors]
+# General background color of the app:
+background_color = [29, 32, 33]
+# Login background color:
+log_background_color = [50, 48, 47]
+# Background color for section headers (e.g., "Continue Listening", "Library", etc.):
+header_background_color = [29, 32, 33]
+# Line color surrounding the header title:
+line_header_color = [168, 153, 132]
+# Background color of the book list:
+list_background_color = [50, 48, 47]
+# Background color for alternate rows of the book list:
+list_background_color_alt_row = [59, 59, 59]
+# Background color of the selected row of the book list:
+list_selected_background_color = [215, 153, 33]
+# Text color of the selected row of the book list:
+list_selected_foreground_color = [29, 32, 33]
+# Text and border color of the search bar:
+search_bar_foreground_color = [215, 153, 33]
+# Text and border color of the login section:
+login_foreground_color = [168, 153, 132]
+# Background color of the player:
+player_background_color = [50, 48, 47]
