@@ -40,7 +40,7 @@ Before creating a pull request to submit your theme, please read these guideline
    - If the color association is visually inconsistent.  
    - If the name is not appropriate or already used.
   
-That's all 🙂
+That's all 🙂 Let's Toutui shiny ! 
 Thank you for contributing!
 
 
