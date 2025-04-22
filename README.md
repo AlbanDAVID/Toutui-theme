@@ -5,6 +5,8 @@ Explore the collection of themes to customize your interface. To try a theme:
   - Click on the name of the theme you're interested in.
 
   - Copy and paste the configuration into your own config file.
+    
+***For now, font depends on your own terminal emulator config.***
 
 💡 Have a theme you'd like to share? Feel free to contribute! Please review the [contribution guidelines](https://github.com/AlbanDAVID/Toutui-theme/blob/main/CONTRIBUTING.md) before submitting a pull request.
 
